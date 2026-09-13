@@ -1,0 +1,6 @@
+{
+  "name": "ICT Trade Terminal",
+  "description": "Professional historical market replay, manual backtesting, ICT setup validation, risk-management, trade-journaling, and statistical edge analyzer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
